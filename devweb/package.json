@@ -1,0 +1,11 @@
+{
+  "name": "devweb",
+  "version": "1.0.0",
+  "description": "A website used to learn how to make websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Masters",
+  "license": "ISC"
+}
